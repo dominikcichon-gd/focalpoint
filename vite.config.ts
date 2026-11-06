@@ -1,3 +1,5 @@
+export default defineConfig({
+  base: '/focalpoint/',
 import { defineConfig } from 'vite'
 import path from 'path'
 import { fileURLToPath } from 'url'
